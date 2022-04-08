@@ -1,5 +1,11 @@
 # four-flux-method
 
+based on 
+Four-flux models to solve the scattering transfer equation in terms of Lorenz-Mie parameters
+by
+B. Maheu, J. N. Letoulouzan, and G. Gouesbet
+https://doi.org/10.1364/AO.23.003353
+
 the code works from validation.m file
 
 it uses C Mätzler Lorenz Mie code to solve particle characteristics
